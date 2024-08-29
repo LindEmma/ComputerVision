@@ -13,7 +13,7 @@
     class Program
     {
         // Computer Vision API-key and endpoint-URL
-        private const string subscriptionKey = "257224d75fc5459b95eb4448acc55b55";
+        private const string subscriptionKey = "ADD-KEY-HERE-REIDAR";
         private const string endpoint = "https://computervisionlindemma.cognitiveservices.azure.com/";
 
         static async Task Main(string[] args)
